@@ -3,7 +3,7 @@ package bdColchones;
 import javax.print.attribute.standard.RequestingUserName;
 
 public class DatosColchones {
-	// Datos mínimos del primer colchón
+	// Datos mínimos del primer colchónfdssdfsdfsdfffs
 		public static String marca0 = "Suavestar";
 		public static double precio0 = 499.0;
 		public static int garantia0 = 7;
