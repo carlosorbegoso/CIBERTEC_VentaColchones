@@ -87,5 +87,11 @@ public class Mantenimiento_ListarColchones extends JDialog implements ActionList
 		txtS.append("\nTamaño\t:"+DatosColchones.tamaño0);
 		txtS.append("\nMaterial\t:"+DatosColchones.material0);
 		
+		txtS.append("Marca\t:"+DatosColchones.marca1);
+		txtS.append("\nPrecio\t:"+DatosColchones.precio1);
+		txtS.append("\nGarantia\t:"+DatosColchones.garantia1);
+		txtS.append("\nTamaño\t:"+DatosColchones.tamaño1);
+		txtS.append("\nMaterial\t:"+DatosColchones.material1);
+		
 	}
 }
