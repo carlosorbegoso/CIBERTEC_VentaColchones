@@ -81,12 +81,7 @@ public class Mantenimiento_ListarColchones extends JDialog implements ActionList
 		dispose();
 	}
 	protected void actionPerformedBtnListar(ActionEvent arg0) {
-		txtS.append("Marca\t:"+DatosColchones.marca0);
-		txtS.append("\nPrecio\t:"+DatosColchones.precio0);
-		txtS.append("\nGarantia\t:"+DatosColchones.garantia0);
-		txtS.append("\nTamaño\t:"+DatosColchones.tamaño0);
-		txtS.append("\nMaterial\t:"+DatosColchones.material0);
-		
+	
 		txtS.append("Marca\t:"+DatosColchones.marca1);
 		txtS.append("\nPrecio\t:"+DatosColchones.precio1);
 		txtS.append("\nGarantia\t:"+DatosColchones.garantia1);
